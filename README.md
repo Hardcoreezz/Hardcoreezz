@@ -9,6 +9,8 @@
 
 - 🗿 Fun fact **The heads on Easter Island have bodies.**
 
+![My Codewarrior Profile Badge](https://www.codewars.com/users/Hardcoreezz/badges/large)
+
 #### 📫 How to reach me
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://linkedin.com/in/igor-bukanov-745207175/)
 <a href="mailto:sacrifall@inbox.ru"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>

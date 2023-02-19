@@ -26,7 +26,7 @@
   <a class="header-badge" target="_blank" href="https://github.com/Hardcoreezz">
       <img alt="Github Follow" src="https://img.shields.io/github/followers/Hardcoreezz?label=follow&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://www.codewars.com/users/estraviz">
+  <a class="header-badge" target="_blank" href="https://www.codewars.com/users/Hardcoreezz">
       <img alt="Codewars badge" src="https://www.codewars.com/users/Hardcoreezz/badges/micro">
   </a>
 </div>
